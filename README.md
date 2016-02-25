@@ -5,7 +5,7 @@ THE FOLLOWING ARE INSTRUCTIONS TO MERGE THE NEEDED WEARABLE COMPUTING DATA FILES
 
 Load R
 
-Run UCIHAR_TidyingScripts.r script
+Run run_analysis.r script
 
 final two data sets
 test_train_mean_std                 	
